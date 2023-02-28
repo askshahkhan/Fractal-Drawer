@@ -3,7 +3,7 @@ Akshay Peddi
 
 How to compile and run program:
 ```javac FractalDrawer.java```
-```Type in java FractalDrawer```
+```java FractalDrawer```
 You will be prompted to enter which shape you would like to draw.
 Type in ```rectangle```, ```circle```, or ```triangle```.
 The total area of the fractal will be printed out
