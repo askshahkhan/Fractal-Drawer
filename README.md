@@ -1,6 +1,3 @@
-Ahmed Shahkhan 
-Akshay Peddi
-
 How to compile and run program:
 ```
 javac FractalDrawer.java
