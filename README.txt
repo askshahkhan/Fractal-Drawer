@@ -1,12 +1,7 @@
-Ahmed Shahkhan (shahk005)
-Akshay Peddi (peddi022)
+Ahmed Shahkhan 
+Akshay Peddi
 
-Contributions:
-Separately completed 2.1, 2.2, 2.3 classes and methods and compared it to each other.
-Ahmed worked on the math for the rectangle fractal and Akshay worked on the math for the circle fractal and the triangle fractal.
-Both of us discussed and wrote the recursive code for rectangle, triangle, circle and code for totalArea
-
-How to compile and run our program:
+How to compile and run program:
 Type in javac FractalDrawer.java
 Type in java FractalDrawer
 You will be prompted to enter which shape you would like to draw.
